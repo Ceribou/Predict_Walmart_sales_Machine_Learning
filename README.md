@@ -1,4 +1,4 @@
-![alt text](img/walmart_project.png)
+# walmart Sales
 
 This project has been realized to validate the Jedha Bootcamp certification (Machine Learning module).
 
@@ -17,3 +17,5 @@ The project can be divided into three steps:
 - Part 1 : make an EDA and all the necessary preprocessings to prepare data for machine learning
 - Part 2 : train a **linear regression model** (baseline)
 - Part 3 : avoid overfitting by training a **regularized regression model**
+
+![alt text](img/walmart_project.png)
