@@ -1,4 +1,4 @@
-# walmart Sales
+# Walmart Sales
 
 This project has been realized to validate the Jedha Bootcamp certification (Machine Learning module).
 
